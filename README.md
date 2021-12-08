@@ -2,7 +2,9 @@
 I wanted to know how github checks and allocates the percentage for different programming languages used in a repository.
 
 
-
+### Tech stack
+* Java openjdk
+* Python 3.9.2
 
 ### How to run;
 you need to have a java jdk and python installed.
