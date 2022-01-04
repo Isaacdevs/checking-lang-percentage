@@ -8,8 +8,8 @@ I wanted to know how github checks and allocates the percentage for different pr
 
 ### How to run;
 you need to have a java jdk and python installed.
-* Run ```java Code.java``` to display the size of the Python (code.py)file.
-* Run ```python code.py``` to display the size of the Java (Code.java)file.
+* Run ```java Code.java``` to display the size of the Python (code.py) file.
+* Run ```python code.py``` to display the size of the Java (Code.java) file.
 
 
 ### Conclusion
